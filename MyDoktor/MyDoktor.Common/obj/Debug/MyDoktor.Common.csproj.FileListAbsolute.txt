@@ -1,0 +1,15 @@
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.Common\bin\Debug\MyDoktor.Common.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.Common\bin\Debug\MyDoktor.Common.pdb
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.Common\obj\Debug\MyDoktor.Common.csprojResolveAssemblyReference.cache
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.Common\obj\Debug\MyDoktor.Common.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.Common\obj\Debug\MyDoktor.Common.pdb
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.Common\bin\Debug\MyDoktor.Common.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.Common\bin\Debug\MyDoktor.Common.pdb
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.Common\obj\Debug\MyDoktor.Common.csprojResolveAssemblyReference.cache
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.Common\obj\Debug\MyDoktor.Common.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.Common\obj\Debug\MyDoktor.Common.pdb
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.Common\bin\Debug\MyDoktor.Common.dll
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.Common\bin\Debug\MyDoktor.Common.pdb
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.Common\obj\Debug\MyDoktor.Common.csprojResolveAssemblyReference.cache
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.Common\obj\Debug\MyDoktor.Common.dll
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.Common\obj\Debug\MyDoktor.Common.pdb

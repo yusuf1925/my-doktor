@@ -1,0 +1,162 @@
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.WebApp\bin\roslyn\csc.exe
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.WebApp\bin\roslyn\vbc.exe
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.WebApp\bin\MyDoktor.WebApp.dll.config
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.WebApp\bin\MyDoktor.WebApp.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.WebApp\bin\MyDoktor.WebApp.pdb
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.WebApp\bin\EntityFramework.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.WebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.WebApp\bin\Microsoft.Web.Helpers.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.WebApp\bin\MyDoktor.BusinessLayer.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.WebApp\bin\MyDoktor.Common.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.WebApp\bin\MyDoktor.Core.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.WebApp\bin\MyDoktor.Entities.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.WebApp\bin\System.Web.Helpers.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.WebApp\bin\System.Web.Mvc.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.WebApp\bin\System.Web.Razor.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.WebApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.WebApp\bin\System.Web.Webpages.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.WebApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.WebApp\bin\WebMatrix.Data.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.WebApp\bin\WebMatrix.WebData.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.WebApp\bin\MyDoktor.DataAccessLayer.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.WebApp\bin\FakeData.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.WebApp\bin\MyDoktor.BusinessLayer.pdb
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.WebApp\bin\MyDoktor.Common.pdb
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.WebApp\bin\MyDoktor.Core.pdb
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.WebApp\bin\MyDoktor.Entities.pdb
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.WebApp\bin\EntityFramework.xml
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.WebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.WebApp\bin\WebMatrix.Data.xml
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.WebApp\bin\WebMatrix.WebData.xml
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.WebApp\bin\System.Web.Razor.xml
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.WebApp\bin\System.Web.Webpages.xml
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.WebApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.WebApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.WebApp\bin\System.Web.Helpers.xml
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.WebApp\bin\System.Web.Mvc.xml
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.WebApp\bin\MyDoktor.DataAccessLayer.pdb
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.WebApp\bin\FakeData.pdb
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.WebApp\obj\Debug\MyDoktor.WebApp.csprojResolveAssemblyReference.cache
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.WebApp\obj\Debug\MyDoktor.WebApp.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.WebApp\obj\Debug\MyDoktor.WebApp.pdb
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.WebApp\obj\Debug\MyDoktor.WebApp.csprojResolveAssemblyReference.cache
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.WebApp\obj\Debug\MyDoktor.WebApp.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.WebApp\obj\Debug\MyDoktor.WebApp.pdb
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.WebApp\bin\roslyn\csc.exe
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.WebApp\bin\roslyn\vbc.exe
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.WebApp\bin\MyDoktor.WebApp.dll.config
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.WebApp\bin\MyDoktor.WebApp.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.WebApp\bin\MyDoktor.WebApp.pdb
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.WebApp\bin\EntityFramework.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.WebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.WebApp\bin\Microsoft.Web.Helpers.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.WebApp\bin\MyDoktor.BusinessLayer.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.WebApp\bin\MyDoktor.Common.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.WebApp\bin\MyDoktor.Core.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.WebApp\bin\MyDoktor.Entities.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.WebApp\bin\System.Web.Helpers.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.WebApp\bin\System.Web.Mvc.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.WebApp\bin\System.Web.Razor.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.WebApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.WebApp\bin\System.Web.Webpages.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.WebApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.WebApp\bin\WebMatrix.Data.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.WebApp\bin\WebMatrix.WebData.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.WebApp\bin\MyDoktor.DataAccessLayer.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.WebApp\bin\FakeData.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.WebApp\bin\MyDoktor.BusinessLayer.pdb
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.WebApp\bin\MyDoktor.Common.pdb
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.WebApp\bin\MyDoktor.Core.pdb
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.WebApp\bin\MyDoktor.Entities.pdb
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.WebApp\bin\EntityFramework.xml
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.WebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.WebApp\bin\WebMatrix.Data.xml
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.WebApp\bin\WebMatrix.WebData.xml
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.WebApp\bin\System.Web.Razor.xml
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.WebApp\bin\System.Web.Webpages.xml
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.WebApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.WebApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.WebApp\bin\System.Web.Helpers.xml
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.WebApp\bin\System.Web.Mvc.xml
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.WebApp\bin\MyDoktor.DataAccessLayer.pdb
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.WebApp\bin\FakeData.pdb
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.WebApp\obj\Debug\MyDoktor.WebApp.csprojResolveAssemblyReference.cache
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.WebApp\obj\Debug\MyDoktor.WebApp.dll
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.WebApp\obj\Debug\MyDoktor.WebApp.pdb
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.WebApp\bin\roslyn\csc.exe
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.WebApp\bin\roslyn\vbc.exe
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.WebApp\bin\MyDoktor.WebApp.dll.config
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.WebApp\bin\MyDoktor.WebApp.dll
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.WebApp\bin\MyDoktor.WebApp.pdb
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.WebApp\bin\EntityFramework.dll
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.WebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.WebApp\bin\Microsoft.Web.Helpers.dll
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.WebApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.WebApp\bin\MyDoktor.BusinessLayer.dll
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.WebApp\bin\MyDoktor.Common.dll
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.WebApp\bin\MyDoktor.Core.dll
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.WebApp\bin\MyDoktor.Entities.dll
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.WebApp\bin\System.Web.Helpers.dll
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.WebApp\bin\System.Web.Mvc.dll
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.WebApp\bin\System.Web.Razor.dll
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.WebApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.WebApp\bin\System.Web.Webpages.dll
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.WebApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.WebApp\bin\WebMatrix.Data.dll
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.WebApp\bin\WebMatrix.WebData.dll
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.WebApp\bin\MyDoktor.DataAccessLayer.dll
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.WebApp\bin\FakeData.dll
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.WebApp\bin\MyDoktor.BusinessLayer.pdb
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.WebApp\bin\MyDoktor.Common.pdb
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.WebApp\bin\MyDoktor.Core.pdb
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.WebApp\bin\MyDoktor.Entities.pdb
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.WebApp\bin\EntityFramework.xml
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.WebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.WebApp\bin\WebMatrix.Data.xml
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.WebApp\bin\WebMatrix.WebData.xml
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.WebApp\bin\System.Web.Razor.xml
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.WebApp\bin\System.Web.Webpages.xml
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.WebApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.WebApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.WebApp\bin\System.Web.Helpers.xml
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.WebApp\bin\System.Web.Mvc.xml
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.WebApp\bin\MyDoktor.DataAccessLayer.pdb
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.WebApp\bin\FakeData.pdb

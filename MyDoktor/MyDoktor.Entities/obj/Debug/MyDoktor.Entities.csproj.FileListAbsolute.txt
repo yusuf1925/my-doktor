@@ -1,0 +1,15 @@
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.Entities\bin\Debug\MyDoktor.Entities.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.Entities\bin\Debug\MyDoktor.Entities.pdb
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.Entities\obj\Debug\MyDoktor.Entities.csprojResolveAssemblyReference.cache
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.Entities\obj\Debug\MyDoktor.Entities.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.Entities\obj\Debug\MyDoktor.Entities.pdb
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.Entities\obj\Debug\MyDoktor.Entities.csprojResolveAssemblyReference.cache
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.Entities\obj\Debug\MyDoktor.Entities.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.Entities\obj\Debug\MyDoktor.Entities.pdb
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.Entities\bin\Debug\MyDoktor.Entities.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.Entities\bin\Debug\MyDoktor.Entities.pdb
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.Entities\bin\Debug\MyDoktor.Entities.dll
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.Entities\bin\Debug\MyDoktor.Entities.pdb
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.Entities\obj\Debug\MyDoktor.Entities.csprojResolveAssemblyReference.cache
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.Entities\obj\Debug\MyDoktor.Entities.dll
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.Entities\obj\Debug\MyDoktor.Entities.pdb

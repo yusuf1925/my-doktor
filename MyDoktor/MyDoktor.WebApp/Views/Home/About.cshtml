@@ -1,0 +1,39 @@
+﻿
+@{
+    ViewBag.Title = "About";
+}
+
+<!-- Page Content -->
+<div class="container">
+    <div class="row">
+        <!-- Kategoriler -->
+        <div class="col-md-3">
+            @Html.Partial("_PartialCategories")
+        </div>
+
+        <div class="col-md-7 col-md-offset-1">
+
+            <div class="row">
+                <h2 class="text-center">
+                    Doktor sitesi
+                </h2>
+                <hr />
+                <img src="~/images/doktor.jpg" class="center-block img-responsive img-rounded img-thumbnail" alt="Alternate Text" />
+                <hr />
+                <p>Bu internet sitesinde, kategorisine göre doktorların notlarını bulabilirsiniz.</p>
+                <p></p>
+                <p>Doktorların notlarını beğenerek doktora destek olabilirsiniz.</p>
+                <p></p>
+                <p>Sayfamızın amacı, doktorların veya kliniklerin, verdikleri hizmetleri, yaptığı operasyonları tanıtmaktır.</p>
+                <p></p>
+                <p>Doktor, hastane veya muayenehane iseniz lütfen 0 232 333 22 11 ile iletişime geçiniz veya anyhealth353535@gmail.com ulaşınız</p>
+                <p></p>
+                <p>Aksi taktirde sitemizin ayrıcalıklarında faydalanamaz paylaşım yapamazsınız.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section footer{
+    @Html.Partial("_PartialFooter")
+}

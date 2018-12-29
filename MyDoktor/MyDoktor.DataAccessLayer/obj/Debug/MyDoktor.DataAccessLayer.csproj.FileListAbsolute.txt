@@ -1,0 +1,54 @@
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.DataAccessLayer\bin\Debug\MyDoktor.DataAccessLayer.dll.config
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.DataAccessLayer\bin\Debug\MyDoktor.DataAccessLayer.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.DataAccessLayer\bin\Debug\MyDoktor.DataAccessLayer.pdb
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.DataAccessLayer\bin\Debug\FakeData.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.DataAccessLayer\bin\Debug\MyDoktor.Common.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.DataAccessLayer\bin\Debug\MyDoktor.Core.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.DataAccessLayer\bin\Debug\MyDoktor.Entities.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.DataAccessLayer\bin\Debug\MyDoktor.Common.pdb
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.DataAccessLayer\bin\Debug\MyDoktor.Core.pdb
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.DataAccessLayer\bin\Debug\MyDoktor.Entities.pdb
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.DataAccessLayer\bin\Debug\FakeData.pdb
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.DataAccessLayer\obj\Debug\MyDoktor.DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.DataAccessLayer\obj\Debug\MyDoktor.DataAccessLayer.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyEvernote.DataAccessLayer\obj\Debug\MyDoktor.DataAccessLayer.pdb
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.DataAccessLayer\obj\Debug\MyDoktor.DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.DataAccessLayer\obj\Debug\MyDoktor.DataAccessLayer.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.DataAccessLayer\obj\Debug\MyDoktor.DataAccessLayer.pdb
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.DataAccessLayer\bin\Debug\MyDoktor.DataAccessLayer.dll.config
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.DataAccessLayer\bin\Debug\MyDoktor.DataAccessLayer.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.DataAccessLayer\bin\Debug\MyDoktor.DataAccessLayer.pdb
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.DataAccessLayer\bin\Debug\FakeData.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.DataAccessLayer\bin\Debug\MyDoktor.Common.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.DataAccessLayer\bin\Debug\MyDoktor.Core.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.DataAccessLayer\bin\Debug\MyDoktor.Entities.dll
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.DataAccessLayer\bin\Debug\MyDoktor.Common.pdb
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.DataAccessLayer\bin\Debug\MyDoktor.Core.pdb
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.DataAccessLayer\bin\Debug\MyDoktor.Entities.pdb
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\macbookpro\Desktop\Yeni klasör (3)\Udemy-MyEvernote-Sample-Project-master\MyDoktor\MyDoktor.DataAccessLayer\bin\Debug\FakeData.pdb
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.DataAccessLayer\bin\Debug\MyDoktor.DataAccessLayer.dll.config
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.DataAccessLayer\bin\Debug\MyDoktor.DataAccessLayer.dll
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.DataAccessLayer\bin\Debug\MyDoktor.DataAccessLayer.pdb
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.DataAccessLayer\bin\Debug\FakeData.dll
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.DataAccessLayer\bin\Debug\MyDoktor.Common.dll
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.DataAccessLayer\bin\Debug\MyDoktor.Core.dll
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.DataAccessLayer\bin\Debug\MyDoktor.Entities.dll
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.DataAccessLayer\bin\Debug\MyDoktor.Common.pdb
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.DataAccessLayer\bin\Debug\MyDoktor.Core.pdb
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.DataAccessLayer\bin\Debug\MyDoktor.Entities.pdb
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.DataAccessLayer\bin\Debug\FakeData.pdb
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.DataAccessLayer\obj\Debug\MyDoktor.DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.DataAccessLayer\obj\Debug\MyDoktor.DataAccessLayer.dll
+C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.DataAccessLayer\obj\Debug\MyDoktor.DataAccessLayer.pdb
