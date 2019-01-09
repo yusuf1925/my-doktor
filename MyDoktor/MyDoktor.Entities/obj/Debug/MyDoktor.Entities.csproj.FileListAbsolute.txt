@@ -13,3 +13,8 @@ C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.Entities\bin\Debug\M
 C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.Entities\obj\Debug\MyDoktor.Entities.csprojResolveAssemblyReference.cache
 C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.Entities\obj\Debug\MyDoktor.Entities.dll
 C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.Entities\obj\Debug\MyDoktor.Entities.pdb
+C:\Users\macbookpro\Desktop\web\my-doktor\MyDoktor\MyDoktor.Entities\bin\Debug\MyDoktor.Entities.dll
+C:\Users\macbookpro\Desktop\web\my-doktor\MyDoktor\MyDoktor.Entities\bin\Debug\MyDoktor.Entities.pdb
+C:\Users\macbookpro\Desktop\web\my-doktor\MyDoktor\MyDoktor.Entities\obj\Debug\MyDoktor.Entities.csprojResolveAssemblyReference.cache
+C:\Users\macbookpro\Desktop\web\my-doktor\MyDoktor\MyDoktor.Entities\obj\Debug\MyDoktor.Entities.dll
+C:\Users\macbookpro\Desktop\web\my-doktor\MyDoktor\MyDoktor.Entities\obj\Debug\MyDoktor.Entities.pdb

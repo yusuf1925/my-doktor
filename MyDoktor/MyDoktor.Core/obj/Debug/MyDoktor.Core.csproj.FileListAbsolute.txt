@@ -12,3 +12,8 @@ C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.Core\bin\Debug\MyDok
 C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.Core\obj\Debug\MyDoktor.Core.csprojResolveAssemblyReference.cache
 C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.Core\obj\Debug\MyDoktor.Core.dll
 C:\Users\macbookpro\Desktop\doktor\doktor\MyDoktor\MyDoktor.Core\obj\Debug\MyDoktor.Core.pdb
+C:\Users\macbookpro\Desktop\web\my-doktor\MyDoktor\MyDoktor.Core\bin\Debug\MyDoktor.Core.dll
+C:\Users\macbookpro\Desktop\web\my-doktor\MyDoktor\MyDoktor.Core\bin\Debug\MyDoktor.Core.pdb
+C:\Users\macbookpro\Desktop\web\my-doktor\MyDoktor\MyDoktor.Core\obj\Debug\MyDoktor.Core.csprojResolveAssemblyReference.cache
+C:\Users\macbookpro\Desktop\web\my-doktor\MyDoktor\MyDoktor.Core\obj\Debug\MyDoktor.Core.dll
+C:\Users\macbookpro\Desktop\web\my-doktor\MyDoktor\MyDoktor.Core\obj\Debug\MyDoktor.Core.pdb

@@ -269,13 +269,13 @@ namespace MyDoktor.BusinessLayer
             foreach (Note note in doktoruser.Notes.ToList())
             {
 
-                // Note ile ilişikili like'ların silinmesi.
+                // Note ile ilişikili likeların silinmesi.
                 foreach (Liked like in note.Likes.ToList())
                 {
                     likedManager.Delete(like);
                 }
 
-                // Note ile ilişkili comment'lerin silinmesi
+                // Note ile ilişkili commentlerin silinmesi
                 foreach (Comment comment in note.Comments.ToList())
                 {
                     commentManager.Delete(comment);
@@ -288,7 +288,7 @@ namespace MyDoktor.BusinessLayer
                 likedManager.Delete(like);
             }
 
-            // Note ile ilişkili comment'lerin silinmesi
+            // Note ile ilişkili commentlerin silinmesi
             foreach (Comment comment in doktoruser.Comments.ToList())
             {
                 commentManager.Delete(comment);

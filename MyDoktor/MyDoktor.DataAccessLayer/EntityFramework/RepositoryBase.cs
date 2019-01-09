@@ -21,7 +21,7 @@ namespace MyDoktor.DataAccessLayer.EntityFramework
         {
             if (context == null)
             {
-                lock (_lockSync)
+                lock (_lockSync)//thread kitlemesi
                 {
                     if (context == null)
                     {

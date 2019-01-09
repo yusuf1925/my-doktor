@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace MyDoktor.Common
 {
     public class DefaultCommon : ICommon
-    {
+    {//heryerden erişim için
         public string GetCurrentUsername()
         {
             return "system";
